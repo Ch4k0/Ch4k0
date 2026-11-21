@@ -31,4 +31,4 @@ I am passionate about algorithms, systems programming, artificial intelligence, 
 
 * **GitHub:** [@Ch4k0](https://github.com/Ch4k0)
 * **Email:** jakobwnek5@gmail.com
-* **LinkedIn:** (https://www.linkedin.com/in/jakub-robert-wnek)
+* **LinkedIn:** [Jakub Robert Wnek](https://www.linkedin.com/in/jakub-robert-wnek)
